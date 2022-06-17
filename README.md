@@ -1,2 +1,2 @@
 # Zuri_Django_URLs
-This is a task on Django Zuri
+This is a task on setting up Django with Zuri
